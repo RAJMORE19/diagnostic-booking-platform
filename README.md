@@ -1,4 +1,5 @@
-Here is a professional, production-quality `README.md` synthesized from the provided project documentation. It is designed to give a new engineer a complete mental model of the platform, from local development to cloud infrastructure.
+<img width="1536" height="1024" alt="ChatGPT Image Aug 17, 2026, 12_30_02 PM" src="https://github.com/user-attachments/assets/6dd6b331-e551-44ed-a30f-871b25931548" />
+
 
 ---
 
