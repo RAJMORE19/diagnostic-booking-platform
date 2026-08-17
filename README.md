@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Aug 17, 2026, 12_30_02 PM" src="https://github.com/user-attachments/assets/6dd6b331-e551-44ed-a30f-871b25931548" />
+  <img width="1536" height="1024" alt="diagnostic-booking-platform" src="https://github.com/user-attachments/assets/d560870d-5502-4d71-9728-6d6ab099e2bf" />
 
 
 ---
