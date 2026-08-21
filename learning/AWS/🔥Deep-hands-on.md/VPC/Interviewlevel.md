@@ -51,7 +51,4 @@ A **VPC (Virtual Private Cloud)** is a secure, isolated private network within a
                 |   Database   |
                 +--------------+
 ```
-
-### In simple terms
-
-Think of a VPC as **your own private network inside the cloud**. You decide which resources can communicate with each other, which resources can access the internet, and what traffic is allowed or blocked.
+===================================================================================================
